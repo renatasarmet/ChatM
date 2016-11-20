@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "96078479458",
+    "firebase_url": "https://chatm-c1a75.firebaseio.com",
+    "project_id": "chatm-c1a75",
+    "storage_bucket": "chatm-c1a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96078479458:android:6d2e1b9ab64cdab7",
+        "android_client_info": {
+          "package_name": "com.google.firebase.ChatM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96078479458-1r6krgia0vgdqst4aftet5eusphkn8oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBew6x9kJRXK7Ct_igBtmucsDJHOApprSI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
